@@ -886,7 +886,7 @@ console.log("Running Bot Launcher!");
   lines = [],
   originalName = "[CG] DogeHunter",
   sessionScore = 0,
-  serverIP = "ws://167.114.174.64:1501",
+  serverIP = "167.114.174.64:1501",
   interNodes = [],
   lifeTimer = new Date(),
   bestTime = 0,
