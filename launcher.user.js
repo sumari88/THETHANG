@@ -884,7 +884,7 @@ console.log("Running Bot Launcher!");
   dArc = [],
   dText = [],
   lines = [],
-  originalName = "[CG] DogeHunter",
+  originalName = "",
   sessionScore = 0,
   serverIP = "167.114.174.64:1501",
   interNodes = [],
