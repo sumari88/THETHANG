@@ -886,7 +886,7 @@ console.log("Running Bot Launcher!");
   lines = [],
   originalName = "Feed=Team",
   sessionScore = 0,
-  serverIP = "",
+  serverIP = "ws://167.114.174.63:1507",
   interNodes = [],
   lifeTimer = new Date(),
   bestTime = 0,
